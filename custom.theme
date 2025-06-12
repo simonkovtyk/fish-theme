@@ -1,0 +1,4 @@
+fish_color_command c799ff
+fish_color_comment 71717b # Zinc 500
+fish_color_autosuggestion 71717b # Zinc 500
+fish_color_search_match --background=7300ff
