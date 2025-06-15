@@ -1,3 +1,6 @@
+# name: 'Dark Orchid'
+# url: https://github.com/simonkovtyk/dark-orchid-fish
+
 fish_color_command c799ff
 fish_color_comment 71717b # Zinc 500
 fish_color_autosuggestion 71717b # Zinc 500
